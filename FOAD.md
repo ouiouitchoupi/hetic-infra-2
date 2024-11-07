@@ -41,4 +41,3 @@
 5. **Haute Disponibilité**  
    Avec des composants comme l'Elastic Load Balancer, l'architecture est conçue pour être hautement disponible et résiliente aux pannes. Cela garantit une expérience utilisateur continue et fiable, ce qui est essentiel pour fidéliser les clients.
 
-Ces choix montrent un engagement envers une architecture AWS bien pensée et optimisée, offrant sécurité, scalabilité et efficacité.
